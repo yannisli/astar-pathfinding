@@ -10,4 +10,4 @@ https://www.sfml-dev.org/index.php
 
 # Installation
 
-Setup a project using Visual Studio, and in the library and include directories, add the SFML include and lib to the paths respectively.
+https://www.sfml-dev.org/tutorials/2.5/start-vc.php
