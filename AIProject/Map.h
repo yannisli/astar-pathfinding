@@ -1,7 +1,7 @@
 #pragma once
 
-#define MAX_WIDTH	512
-#define MAX_HEIGHT	512
+#define MAX_WIDTH	400
+#define MAX_HEIGHT	300
 #define NODE_SIZE	2
 class Map
 {
